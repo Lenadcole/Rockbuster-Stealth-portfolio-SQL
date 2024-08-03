@@ -8,4 +8,4 @@ Rockbuster Stealth is a fictional video rental service that used to have stores 
 
 ## Context
 
-In order to answer questions posed by the business, I used increasingly complex SQL queries and Tableau visualisations, which can be viewed [here](https://public.tableau.com/app/profile/lena.cole/vizzes).
+In order to answer questions posed by the business, I used increasingly complex SQL queries and Tableau visualisations, which can be viewed [here](https://public.tableau.com/app/profile/lena.cole/vizzes). I also created a presenatation containing my findings.
