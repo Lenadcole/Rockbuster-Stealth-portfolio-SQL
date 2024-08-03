@@ -1,4 +1,4 @@
-# SQLqueryportfolio
+# Rockbuster-Stealth-portfolio-SQL
 
 I used SQL to answer a number of business questions posed by the Rockbuster Stealth LLC management team regarding revenue, video rental performance and customer rental habits and locations.
 
